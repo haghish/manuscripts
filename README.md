@@ -9,7 +9,7 @@ Organization
 Every directory is for a particular manuscript. Within the directory:
 
 - `Doc` : a directory where supporting documents are located. 
-- `References`: files for a reference manager software
+- `Reference`: files for a reference manager software
 - `Literature`: a directory for some of the most important references that inspired the manuscript. 
 - `Text`: Where the Microsoft Word or LaTeX files are located
 - `Data`: raw data (if I am allowed to publish it publically)
