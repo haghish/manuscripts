@@ -1,10 +1,13 @@
+<img src="https://github.com/haghish/markdoc/raw/master/Resources/images/work.png" width="120px" height="120px"  align="left" > 
+
 Manuscripts
 ===========
 
 Data, code, results, manuscripts, references, and PDF literature of my manuscripts. I am publishing them all public to stand for my support for reproducible research. 
 
-Organization
-------------
+<br><br>
+
+### Organization
 
 Every directory is for a particular manuscript. Within the directory:
 
