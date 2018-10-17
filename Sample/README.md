@@ -15,3 +15,8 @@ the whole analysis should be reproducible using:
     + installing `markdoc` version 4.0.0 (for reproducibility compatibility)     
     ```github install haghish/markdoc, version("4.0.0")```
 - The analyses reports are exported in Markdown format, which makes them readable on GitHub
+
+
+### Bibliography
+
+The references are written using ??? version ??? software
