@@ -11,7 +11,7 @@ Data, code, results, manuscripts, references, and PDF literature of my manuscrip
 
 Every directory is for a particular manuscript. Within the directory:
 
-- `index.md`: every subdirectory includes an index file, explaining the manuscript
+- `README.md`: every subdirectory includes a **README** file, explaining the manuscript and the subdirectory
 - `Doc` : a directory where supporting documents are located. 
 - `Reference`: files for a reference manager software
 - `Literature`: a directory for some of the most important references that inspired the manuscript. 
