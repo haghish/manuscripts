@@ -1,0 +1,167 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+Ble%
+\ \protect \BOthers {.}}{%
+Ble%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2005}}%
+}]{%
+ble2005}
+\APACinsertmetastar {%
+ble2005}%
+\begin{APACrefauthors}%
+Ble, A.%
+, Volpato, S.%
+, Zuliani, G.%
+, Guralnik, J\BPBI M.%
+, Bandinelli, S.%
+, Lauretani, F.%
+\BDBL {}Ferrucci, L.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2005}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Executive function correlates with walking speed in
+  older persons: the InCHIANTI study} {Executive function correlates with
+  walking speed in older persons: the inchianti study}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of the American Geriatrics
+  Society}{53}{3}{410--415}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Kortte%
+, Horner%
+\BCBL {}\ \BBA {} Windham%
+}{%
+Kortte%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2002}}%
+}]{%
+kortte2002}
+\APACinsertmetastar {%
+kortte2002}%
+\begin{APACrefauthors}%
+Kortte, K\BPBI B.%
+, Horner, M\BPBI D.%
+\BCBL {}\ \BBA {} Windham, W\BPBI K.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2002}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {The trail making test, part B: cognitive flexibility or
+  ability to maintain set?} {The trail making test, part b: cognitive
+  flexibility or ability to maintain set?}{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Applied neuropsychology}{9}{2}{106--109}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Reitan%
+}{%
+Reitan%
+}{%
+{\protect \APACyear {1955}}%
+}]{%
+reitan1955relation}
+\APACinsertmetastar {%
+reitan1955relation}%
+\begin{APACrefauthors}%
+Reitan, R\BPBI M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1955}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {The relation of the trail making test to organic brain
+  damage.} {The relation of the trail making test to organic brain
+  damage.}{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of consulting psychology}{19}{5}{393}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Reitan%
+\ \BBA {} Wolfson%
+}{%
+Reitan%
+\ \BBA {} Wolfson%
+}{%
+{\protect \APACyear {1985}}%
+}]{%
+reitan1985halstead}
+\APACinsertmetastar {%
+reitan1985halstead}%
+\begin{APACrefauthors}%
+Reitan, R\BPBI M.%
+\BCBT {}\ \BBA {} Wolfson, D.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{1985}.
+\newblock
+\APACrefbtitle {The Halstead-Reitan neuropsychological test battery: Theory and
+  clinical interpretation} {The halstead-reitan neuropsychological test
+  battery: Theory and clinical interpretation}\ (\BVOL~4).
+\newblock
+\APACaddressPublisher{}{Reitan Neuropsychology}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Seo%
+\ \protect \BOthers {.}}{%
+Seo%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2006}}%
+}]{%
+seo2006}
+\APACinsertmetastar {%
+seo2006}%
+\begin{APACrefauthors}%
+Seo, E\BPBI H.%
+, Lee, D\BPBI Y.%
+, Kim, K\BPBI W.%
+, Lee, J\BPBI H.%
+, Jhoo, J\BPBI H.%
+, Youn, J\BPBI C.%
+\BDBL {}Woo, J\BPBI I.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2006}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {A normative study of the Trail Making Test in Korean
+  elders} {A normative study of the trail making test in korean elders}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{International Journal of Geriatric Psychiatry: A
+  journal of the psychiatry of late life and allied sciences}{21}{9}{844--852}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Tombaugh%
+}{%
+Tombaugh%
+}{%
+{\protect \APACyear {2004}}%
+}]{%
+tombaugh2004trail}
+\APACinsertmetastar {%
+tombaugh2004trail}%
+\begin{APACrefauthors}%
+Tombaugh, T\BPBI N.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2004}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Trail Making Test A and B: normative data stratified by
+  age and education} {Trail making test a and b: normative data stratified by
+  age and education}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Archives of clinical neuropsychology}{19}{2}{203--214}.
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}
