@@ -28,17 +28,16 @@
 	
 	TMT is a paper-and-pencil test, which includes two separate sections, part A and part B and is claimed to examine different cognitive constructs. The part A is concerned with attention \cite{seo2006} and requires the participants to connect numbered circles in ascending order. The circles are numbered from one to twenty-five and are randomly scattered over a paper. Part B is more related to executive function \cite{ble2005, seo2006} and is considered to be more difficult to perform, although there is no general agreement on the underlying cognitive constructs assessed by part B \cite{kortte2002}. Part B is consisted of two types of circles, numbered circles (from 1 to 12) and circles with alphabet letters (from A to L). In ascending order, the participants should connect each alphabetical letter to a number corresponding to its rank. For example, beginning with 1-A, 2-B, ..., and ending with 12-L. The time needed by a participant to finish each part correctly is recorded as a measurement of performance. 
 	
-	
-	•	How the results of the test are interpreted?\\
-	•	What are we doing in this manuscript\\
-	o	What is wrong with the previous norms?\\
+	Primarily, the cut-off points were used for making decisions based on the performance time. However, research has shown that the performance time is not a good criteria for comparing individuals because other factors such as intelligence, level of education, and aging influence the performance time. As a result, the TMT score is often interpreted using normative data, sorted out based on age and level of education. 
+    
+    In the current manuscript, we review some of the popular normative data for interpreting the TMT instrument and integrate them in a software that is meant to simplify interpreting the instrument in clinical settings. We also provide an R package for analyzing TMT data sets using the included normative data.   
 	
 
 % THE NORMATIVE DATA
 % ==================
 \section{The normative data}
 	
-	
+	In this manuscript, we include two normative data sets, from Tombaugh \citeyear{tombaugh2004trail} and Seo et. al \citeyear{seo2006}. 
 	
 	
 	
@@ -116,7 +115,7 @@ which will launch the main analysis window of the app in the default web browser
 
 \begin{figure}[ht!]
 	\centering
-	\includegraphics[width=80mm]{./Resources/app-main.png}
+	\includegraphics[width=120mm]{./Resources/app-main.png}
 	\caption{The main window of the TMT app \label{overflow}}
 \end{figure}
 
@@ -125,6 +124,11 @@ which will launch the main analysis window of the app in the default web browser
 To analyze the TMT score with the app, first the normative data to be used for interpreting the data has to be specified. Next, the jubject's age, level of education, and TMT scores (part A, B, or both) should be specified. The app also allows the user to export a PDF document for the analysis report. 
 
 
+\section{Discussion}
+
+Despite its popularity, interpreting the TMT scale is often a challenge, particularly in neurological research studies. A part of the challenge, on the one hand, is lacking proper normative data and on the other, the non-linear influence of age, level of education, and other factors on the performance. As a result, still a cut-off values are frequently applied for interpreting the performance. 
+
+In the current manuscript we reviewed some of the recent normative data that are used for interpreting the TMT instrument. We also developed a cross-platform software that is meant to be used by clinicians to interpret the instrument conveniently. Additionally, we also developed an R package interpreting TMT instrument in research data sets. 
 
 
 \bibliography{bibliography}
