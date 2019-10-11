@@ -1,0 +1,6 @@
+{smcl}
+{com}{sf}{ul off}{txt}
+{com}. //IMPORT ./chapters/000_quick-tips.md
+. qui log c
+{smcl}
+{com}{sf}{ul off}

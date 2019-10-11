@@ -1,0 +1,12 @@
+{smcl}
+{com}{sf}{ul off}{txt}
+{com}. //IMPORT ./chapters/01_introduction.md
+. //IMPORT ./chapters/02_installation.md
+. //IMPORT ./chapters/03_workflow.md
+. //IMPORT ./chapters/04_markup.md
+. //IMPORT ./chapters/05_markers.md
+. //IMPORT ./chapters/06_Aditional_commands.md
+. //IMPORT ./chapters/08_help.md
+. qui log c
+{smcl}
+{com}{sf}{ul off}
